@@ -25,7 +25,7 @@ SECRET_KEY = '@v(-d739qqocf+d#2%*&vxob&th=r6=$@kk2#^d0gpfh-rsiyr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Cayly>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Cayly.pythonanywhere.com']
 
 # Application definition
 
